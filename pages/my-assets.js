@@ -31,6 +31,7 @@ const ethersConfig = {
 
 export default function MyAssets() {
   
+  /*
   const [nfts, setNfts] = useState([])
   const [loadingState, setLoadingState] = useState('not-loaded')
   useEffect(() => {
@@ -66,9 +67,10 @@ export default function MyAssets() {
     setNfts(items)
     setLoadingState('loaded') 
   }
+  */
   
 
-  /*
+  
   //full rebuild of Nader's work
   const [zoraNFTs, zoraSetNFTs] = useState([])
   const [zoraLoadingState, zoraSetLoadingState] = useState('not-loaded')
@@ -120,7 +122,7 @@ export default function MyAssets() {
   }
   */
 
-  /*
+  
   if (zoraLoadingState === 'loaded' && !zoraNFTs.length) return (<h1 className="py-10 px-20 text-3xl">No assets owned</h1>)
   return (
     <div className="flex justify-center">
@@ -141,10 +143,10 @@ export default function MyAssets() {
       </div>
     </div>
   )
-  */
+  
   
 
-  
+  /*
   if (loadingState === 'loaded' && !nfts.length) return (<h1 className="py-10 px-20 text-3xl">No assets owned</h1>)
   return (
     <div className="flex justify-center">
@@ -164,6 +166,6 @@ export default function MyAssets() {
       </div>
     </div>
   )
-  
+  */
   
 }
