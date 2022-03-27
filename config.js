@@ -1,0 +1,6 @@
+export const nftaddress = "0xf78b4a0BDC0f9317796404dBCd24CeE1B7b96479"
+export const nftmarketaddress = "0x10bb5492dF1e2c6dFe2bc7d56D2ddAd4a8f05D6e"
+export const mynftaddress = "0x285599beF792F9d8BD5ec836315a5ccD72939215"
+export const zoramarketadress = "0xA98D3729265C88c5b3f861a0c501622750fF4806"
+export const LostandFound_vol_1_address = "0x53964aA2534940cC1DdE8454c44b72E797edB1CE"
+export const lostandfound_vol_1_v2_address = "0x0B209802B5C25CD55FF64B7EC0eD7ceb6420e68B"
